@@ -1,0 +1,49 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s001,Movie,The Last Journey,A. Sharma,"Raj Kumar, Priya Singh","India, United States","January 1, 2020",2019,PG-13,120 min,"Dramas, International Movies",A traveler discovers a new purpose during a long journey.
+s002,TV Show,City Lights,M. Kapoor,"Anita Rao, Karan Mehta",India,"January 5, 2020",2018,TV-14,2 Seasons,"International TV Shows, Dramas",Stories of people living in a busy modern city.
+s003,Movie,Ocean Blue,L. Carter,"James Lee, Sarah Kim",United States,"February 10, 2021",2020,PG,105 min,"Dramas, Independent Movies",A family searches for a missing boat.
+s004,Movie,Hidden Code,R. Verma,"Aman Gupta, Neha Jain","India, United Kingdom","March 2, 2021",2021,TV-14,118 min,"Thrillers, International Movies",A programmer uncovers a mysterious digital message.
+s005,TV Show,The Detectives,S. Brown,"Michael Stone, Eva Green",United Kingdom,"April 12, 2021",2019,TV-MA,3 Seasons,"Crime TV Shows, Dramas",Detectives solve difficult cases across the city.
+s006,Movie,Mountain Road,P. Singh,Vikram Das,India,"May 20, 2021",2017,PG,110 min,"Dramas, International Movies",A road trip changes the lives of two friends.
+s007,Movie,Future World,J. Smith,"Daniel Park, Emma Stone","United States, Canada","June 15, 2021",2021,PG-13,125 min,"Sci-Fi, Action",A team tries to protect a futuristic city.
+s008,TV Show,Food Stories,N. Rao,"Meera Shah, Rohan Patel",India,"July 1, 2021",2020,TV-G,1 Season,"Reality TV, International TV Shows",Chefs share recipes and stories from around India.
+s009,Movie,The Artist,K. Williams,Olivia Moore,Canada,"August 8, 2021",2016,R,99 min,"Dramas, Independent Movies",An artist struggles to balance ambition and family.
+s010,Movie,Night Patrol,D. Wilson,"Chris Adams, Laura Hill",United States,"September 10, 2021",2018,R,115 min,"Action, Thrillers",A patrol officer faces a dangerous night.
+s011,TV Show,Campus Life,V. Mehta,"Arjun Singh, Tina Roy",India,"October 2, 2021",2021,TV-14,2 Seasons,"Teen TV Shows, Comedies","Students navigate friendship, exams and new experiences."
+s012,Movie,Desert Winds,F. Khan,"Sameer Ali, Zara Khan","India, United Arab Emirates","November 11, 2021",2019,PG-13,108 min,"Dramas, International Movies",Two travelers cross a vast desert.
+s013,Movie,Lost Signal,E. Miller,Tom Reed,United States,"January 14, 2022",2021,TV-14,102 min,"Thrillers, Sci-Fi",A radio operator receives a signal from an unknown source.
+s014,TV Show,Family Table,R. Gupta,"Nisha Verma, Rohit Kumar",India,"February 18, 2022",2020,TV-PG,4 Seasons,"International TV Shows, Comedies",A large family learns to live together.
+s015,Movie,Green Valley,H. Patel,Isha Malhotra,India,"March 25, 2022",2022,G,95 min,"Documentaries, International Movies",A documentary about a protected natural valley.
+s016,Movie,Code Breakers,T. Johnson,"Alex Young, Mia Chen",United States,"April 9, 2022",2022,PG-13,121 min,"Action, Sci-Fi",Young engineers race to stop a cyberattack.
+s017,TV Show,London Stories,C. Evans,"Daniel White, Sophie Brown",United Kingdom,"May 7, 2022",2021,TV-MA,2 Seasons,"British TV Shows, Dramas",Several lives intersect in London.
+s018,Movie,River Song,P. Nair,"Dev Menon, Asha Rao",India,"June 16, 2022",2020,PG,103 min,"Dramas, Music & Musicals",A musician returns to his hometown.
+s019,Movie,Deep Space,G. Martin,"John Carter, Lily James","United States, Canada","July 21, 2022",2022,PG-13,130 min,"Sci-Fi, Adventure",Astronauts search for a habitable planet.
+s020,TV Show,Kitchen Masters,B. Lee,"Kevin Wong, Sara Ali",Canada,"August 12, 2022",2019,TV-G,3 Seasons,Reality TV,Amateur chefs compete in weekly challenges.
+s021,Movie,Broken Bridge,R. Sen,"Manish Roy, Pooja Das",India,"September 3, 2022",2018,TV-14,112 min,"Dramas, Thrillers",A journalist investigates an old accident.
+s022,Movie,Winter Game,A. Brown,"Mark Evans, Helen Scott",United States,"October 14, 2022",2021,PG,100 min,"Sports Movies, Dramas",A young athlete prepares for a major competition.
+s023,TV Show,Ocean Rescue,J. Taylor,"Nina Cole, Adam Ford",Australia,"November 20, 2022",2020,TV-PG,2 Seasons,Docuseries,A rescue team protects marine life.
+s024,Movie,Silent House,M. Singh,Ravi Kumar,India,"December 1, 2022",2017,R,98 min,"Horror Movies, Thrillers",A family moves into a strangely quiet house.
+s025,Movie,Golden Road,S. Clark,"Emily Stone, Ryan Bell","United States, United Kingdom","January 8, 2023",2022,PG-13,116 min,"Adventure, Dramas",Friends travel across several countries.
+s026,TV Show,Tech Today,N. Sharma,"Amit Rao, Kavya Singh",India,"February 19, 2023",2022,TV-G,1 Season,"Docuseries, Science & Technology",Experts explain new technology in simple terms.
+s027,Movie,The Chef,K. Adams,"Robert King, Maya Patel",United States,"March 11, 2023",2023,R,107 min,"Comedies, Dramas",A chef starts over after losing his restaurant.
+s028,Movie,Rainy Days,D. Kapoor,"Neel Shah, Riya Jain",India,"April 2, 2023",2021,TV-14,101 min,"Romantic Movies, Dramas",Two old friends reconnect during a rainy season.
+s029,TV Show,Wild Earth,F. Green,David Hall,"Australia, United States","May 15, 2023",2022,TV-PG,2 Seasons,Documentaries,A visual journey through endangered ecosystems.
+s030,Movie,Final Mission,T. Walker,"Chris Ford, Anna White",United Kingdom,"June 9, 2023",2023,PG-13,124 min,"Action, Thrillers",A rescue team takes on one final mission.
+s031,Movie,Small Town,,"Priya Das, Mohan Roy",India,"July 18, 2023",2020,PG,92 min,"Dramas, International Movies",A young person returns to a small hometown.
+s032,TV Show,Mystery Files,L. Stone,"Eric Brown, Nina Lee",United States,"August 4, 2023",2023,TV-14,1 Season,"Crime TV Shows, Mysteries",Investigators revisit unexplained cases.
+s033,Movie,Skyline,R. Verma,Aarav Mehta,"India, Singapore","September 22, 2023",2022,Not Rated,109 min,"Dramas, International Movies",An architect designs a new city landmark.
+s034,Movie,Paper Planes,,Emma Ray,Canada,"October 13, 2023",2019,PG,88 min,Children & Family Movies,A child enters a national paper-plane contest.
+s035,TV Show,The Workshop,M. Clark,"James Hill, Sara Khan",United Kingdom,"November 5, 2023",2021,TV-PG,3 Seasons,"Reality TV, International TV Shows",Creators build unusual projects from scratch.
+s036,Movie,Red Alert,D. Kumar,"Vivek Rao, Anjali Singh",India,"December 17, 2023",2023,TV-MA,113 min,"Action, Thrillers",A security team races against time.
+s037,Movie,Bright Future,A. Wilson,"Lucas Green, Maya Roy",United States,"January 12, 2024",2024,PG-13,117 min,"Dramas, Sci-Fi",Students imagine a better future through technology.
+s038,TV Show,Indian Kitchens,S. Rao,"Ritu Sharma, Kabir Das",India,"February 23, 2024",2023,TV-G,2 Seasons,"Cooking, International TV Shows",Regional cooks demonstrate traditional dishes.
+s039,Movie,The Forest,P. Miller,"Noah Adams, Sara Cole","United States, Canada","March 8, 2024",2024,PG-13,111 min,"Adventure, Dramas",A group explores an isolated forest.
+s040,Movie,New Beginning,V. Singh,"Rohan Kapoor, Meera Das",India,"April 19, 2024",2024,TV-14,104 min,"Dramas, International Movies",A family starts a new chapter in another city.
+s041,TV Show,Global News,,Various,"India, United States, United Kingdom","May 10, 2024",2024,TV-MA,1 Season,"TV Shows, International TV Shows",A fictional daily news discussion program.
+s042,Movie,Hidden Island,J. Brown,"Daniel Lee, Tara Singh",Australia,"June 6, 2024",2023,PG-13,119 min,"Adventure, Thrillers",Explorers discover an island missing from modern maps.
+s043,Movie,Family Reunion,R. Patel,"Asha Kumar, Neeraj Shah",India,"July 14, 2024",2022,PG,97 min,"Comedies, Dramas",Relatives reunite for an unexpected celebration.
+s044,TV Show,Space Academy,C. Smith,"Liam Stone, Zoe King",United States,"August 21, 2024",2024,TV-PG,1 Season,"Kids' TV, Sci-Fi",Young cadets train for life in space.
+s045,Movie,Last Letter,N. Gupta,"Karan Roy, Simran Das","India, United Kingdom","September 9, 2024",2023,R,106 min,"Dramas, Romantic Movies",An old letter changes two families.
+s046,Movie,Digital Dreams,E. Carter,"Mia Chen, Ryan Fox",Canada,"October 18, 2024",2024,PG-13,115 min,"Sci-Fi, Dramas",A designer explores the boundary between reality and virtual worlds.
+s047,TV Show,Mountain Rescue,P. Wilson,"Alex Stone, Ben Hall",Australia,"November 2, 2024",2023,TV-14,2 Seasons,"TV Action & Adventure, Docuseries",A rescue crew responds to emergencies in remote mountains.
+s048,Movie,The Promise,,"Isha Roy, Dev Kumar",India,"December 12, 2024",2024,Not Rated,100 min,"Dramas, International Movies",Two friends keep a promise made years earlier.
